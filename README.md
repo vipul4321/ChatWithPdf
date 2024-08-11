@@ -43,4 +43,4 @@ Start the Streamlit app:
 streamlit run app.py
 Access the App:
 
-Open your browser and navigate to http://localhost:8080 to use the application.
+Open your browser and navigate to localhost to use the application.
